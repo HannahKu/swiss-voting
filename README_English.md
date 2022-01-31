@@ -1,4 +1,6 @@
-# Swiss popular initiatives in the context of time (student project 4.semester)
+# Swiss popular initiatives in the context of time (
+**Student project 4.semester**
+
 Switzerland's system of government is unique in the world and allows for extraordinary popular participation in political decision-making. Depending on the social situation, Swiss people vote on different topics. With our interactive visualizations, we give an in-depth insight into this voting behavior.
 
 Link to the project: https://web.fhnw.ch/technik/projekte/ivis/2019/abstimmungen_ch/
